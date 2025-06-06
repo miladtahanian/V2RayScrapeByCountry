@@ -1,2 +1,0 @@
-ss://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.209.49.17:8443?encryption=none&security=tls&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2%2F%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%A6_%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.209.49.17:8443?encryption=none&security=tls&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2%2F%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%A6_%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF
