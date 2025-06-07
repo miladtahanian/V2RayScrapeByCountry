@@ -3,7 +3,7 @@ name: V2Ray Scraper
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: "0,15,30,45 * * * *"
 
 permissions:
   contents: write
