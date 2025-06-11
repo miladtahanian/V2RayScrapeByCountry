@@ -4,7 +4,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.230:989#%F0%9F%87%B2%F0%9F%
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.230:989#%F0%9F%87%B2%F0%9F%87%BD%20MX-147.78.1.230:989
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.27:989#%F0%9F%87%B2%F0%9F%87%BD%20MX-147.78.1.27%3A989
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.27:989#premium-mx
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.27:989#premium-mx🤯
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.105:8880?encryption=none&security=none&sni=pqf1v1.fomula1race.shop&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B2%F0%9F%87%BD%C2%AE%EF%B8%8FMexico%C2%A9%EF%B8%8FMexico%20City%F0%9F%85%BF%EF%B8%8Fping%3A105.23ms
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880?encryption=none&security=none&sni=pqf1v5.fomula1race.shop&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B2%F0%9F%87%BD%C2%AE%EF%B8%8FMexico%C2%A9%EF%B8%8FMexico%20City%F0%9F%85%BF%EF%B8%8Fping%3A99.91ms
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.112:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B2%F0%9F%87%BD%C2%AE%EF%B8%8FMexico%C2%A9%EF%B8%8FMexico%20City%F0%9F%85%BF%EF%B8%8Fping%3A104.32ms
