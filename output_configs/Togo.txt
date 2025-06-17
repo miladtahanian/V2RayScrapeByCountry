@@ -1,0 +1,1 @@
+trojan://77G4g4apO0@x8-sweden-amazon-v2-cf9yw.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x8-sweden-amazon-v2-cf9yw.devefun.org#TG%3A%3A%20%40ConfigV2RayNG%20%7C
