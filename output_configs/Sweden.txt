@@ -24,6 +24,7 @@ ss://Parsashonam16zo=@185.146.173.39:8880#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+185.146
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0aWhBZ1Z4Wk8xMnU3@81.177.215.84:443#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+81.177.215.84-443+%7C+172.21ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZmFFYXRHajdpWG5jVnBpaktGQzFl@62.60.231.81:59945#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AA%C2%AE%EF%B8%8FSweden%C2%A9%EF%B8%8FStockholm%F0%9F%85%BF%EF%B8%8Fping%3A16.17ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+94.228.165.178-58176+%7C+169.72ms
+trojan://GN0mh4iQIEVvJm5IzCZAaw@smart.steamactcdn.com:8880?security=none&type=ws&headerType=&path=/Update-Master-telegram-DE?ed=2048&host=xn--se-mx5hmezfyg5i9h1isjmjyjpmqm4n2oiosa15b.Masterneo.NET.#SWEDEN
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@94.131.115.71:443?security=tls&sni=customer-94-131-115-71.stark-industries.solutions&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://telegram-id-directvpn@13.49.122.114:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AASweden
 trojan://telegram-id-directvpn@13.60.151.163:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
