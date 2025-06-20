@@ -11,7 +11,6 @@ ss://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?encryption=none&secu
 ss://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@104.18.15.19:2082?path=%2F%3Fed%3D2560&security=none&encryption=none&host=0108.9ro3grfw.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub`
 ss://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.19.48.236:443?encryption=none&security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F#t.me%2Fpeterjest
 ss://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@hyun.cloudflare.182682.xyz:443?encryption=none&security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F#t.me%2Fpeterjest
-ss://19335546-8ae2-4dd1-86da-987b2daa5a6c@random.iranis.art:8088?path=%2F&security=none&encryption=none&type=ws#https://t.me/ConfigX2ray
 ss://195a6144-49a1-4f16-a007-8702010dc489@sg-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=sg-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=sg-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-125%20-%20SG%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 ss://19b3cbba-e6ac-485a-9481-926a0415eab2@172.67.189.174:80?encryption=none&security=none&type=ws&host=sHrill-tErm-639b.TageLIT414.workeRs.dEv&path=%2F#t.me%2Fpeterjest
 ss://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?encryption=none&security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
@@ -375,11 +374,8 @@ trojan://Aimer@103.116.7.248:443?security=tls&sni=epme.ambercc.filegear-sg.me&ty
 trojan://Aimer@108.165.152.58:2087?security=tls&sni=epmw.ambercc.filegear-sg.me&type=ws&host=epmw.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 trojan://Aimer@141.11.203.191:8443?security=tls&sni=epmw.ambercc.filegear-sg.me&type=ws&host=epmw.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 trojan://Aimer@154.211.8.240:443?security=tls&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=%2F#t.me%2Fpeterjest
-trojan://Aimer@154.9.207.177:443?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#t.me/StupidBitchNigga
 trojan://Aimer@188.164.159.74:8443?security=tls&sni=epmw.ambercc.filegear-sg.me&type=ws&host=epmw.ambercc.filegear-sg.me&path=%2F#t.me%2Fpeterjest
 trojan://Aimer@192.210.207.89:20080?security=tls&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=%2F#t.me%2Fpeterjest
-trojan://Aimer@209.208.227.79:443?allowInsecure=0&sni=epccq.ambercc.filegear-sg.me#t.me/StupidBitchNigga
-trojan://Aimer@219.76.13.177:443?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#t.me/StupidBitchNigga
 trojan://Aimer@27.50.48.126:2083?security=tls&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=%2F#t.me%2Fpeterjest
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&sni=x1fr-ovh.devefun.net&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#t.me%2Fpeterjest
 trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&sni=x1-sweden-ovh-v2.devefun.net&type=tcp&headerType=none#t.me%2Fpeterjest
@@ -521,7 +517,6 @@ vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?encryption=none&s
 vless://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@104.18.15.19:2082?path=%2F%3Fed%3D2560&security=none&encryption=none&host=0108.9ro3grfw.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub`
 vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.19.48.236:443?encryption=none&security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F#t.me%2Fpeterjest
 vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@hyun.cloudflare.182682.xyz:443?encryption=none&security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F#t.me%2Fpeterjest
-vless://19335546-8ae2-4dd1-86da-987b2daa5a6c@random.iranis.art:8088?path=%2F&security=none&encryption=none&type=ws#https://t.me/ConfigX2ray
 vless://195a6144-49a1-4f16-a007-8702010dc489@sg-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=sg-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=sg-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-125%20-%20SG%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 vless://19b3cbba-e6ac-485a-9481-926a0415eab2@172.67.189.174:80?encryption=none&security=none&type=ws&host=sHrill-tErm-639b.TageLIT414.workeRs.dEv&path=%2F#t.me%2Fpeterjest
 vless://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?encryption=none&security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
