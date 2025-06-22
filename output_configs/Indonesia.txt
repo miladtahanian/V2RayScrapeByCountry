@@ -20,11 +20,8 @@ ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab1&s
 ss://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?path=%2Fwebsocket&security=tls&encryption=none&host=ru05.abvpn.ru&type=ws&sni=ru05.abvpn.ru#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
 ss://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?path=%2Fwebsocket&security=tls&encryption=none&host=ru01.abvpn.ru&fp=chrome&type=ws&sni=ru01.abvpn.ru#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
 ss://594e62b9-bb88-4264-b3fe-57f66202a96d@148.135.195.96:44356?mode=gun&security=reality&encryption=none&pbk=hoyeyIygWaTAIdW2Cw42wBdeXfRkQCWoKq278YyyuU8&fp=chrome&type=grpc&sni=github.com&sid=67dea0af00c9d222#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-ss://5abfab2f-1181-4d37-86fd-21a7296b6358@sv10.mizbanland.ir:443?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66
 ss://64ae71df-4af7-4477-bb7d-8ea9a551bc21@37.27.246.211:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=wwJmfWX0TYAkFhwG2ej66BRss-LHHJD5BFhtBcRZF0Y&host=scholar.google.com&fp=chrome&spx=%2F&type=xhttp&sni=myket.ir&sid=ce5a88c525#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
 ss://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?path=%2F6603a779&security=none&encryption=none&host=%2FBIA_TELEGRAM%40ShadowProxy66&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AE%F0%9F%87%B7
-ss://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:4040?path=%2F&security=none&encryption=none&host=bundesregierung.de&type=ws#Channel%20id%3A%20%40ShadowProxy66
-ss://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880/?type=ws&encryption=none&flow=&host=www.speedtest.net.zula.ir.cfp1.a2hdhjdxjbxjsjdjd.ddns-ip.nEt.&path=%40V2ray_God#Channel%20id%3A%20%40ShadowProxy66
 ss://6f62b9a8-479c-4d33-b4a9-7e442cf2c349@45.85.119.139:443?mode=auto&path=%2Fazadi%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=inbarzendegi.site&fp=chrome&type=xhttp&sni=InBarZendegi.site#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 ss://708fd02b-5138-4198-980d-79819b3875fd@141.11.252.64:32785?path=%2F708fd02b&security=none&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%A6
 ss://75ecef77-2050-4250-99f7-936d0188edf2@151.101.2.133:80?path=%2Fws%2F%3Fed&security=&encryption=none&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&type=ws&sni=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
@@ -75,6 +72,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvamNQMzZuMVNvdURjbkJnOUVPWlA4@9.163.232.180:
 ss://YWVzLTEyOC1nY206ckk5aXhxbVpISEc0UEJ2VUFOWUFHdw%3D%3D@37.202.231.23:444#Channel%20id%3A%20%40ShadowProxy66
 ss://YWVzLTI1Ni1nY206NzM1ZmQ0ZjQtYmM1NS00MDBhLTlmMWMtMmI5MTA4OWM5MjAw@68.183.213.232:8443#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87
 ss://YWVzLTI1Ni1nY206NzM1ZmQ0ZjQtYmM1NS00MDBhLTlmMWMtMmI5MTA4OWM5MjAw@68.183.213.232:8443#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+ss://YWVzLTI1Ni1nY206RGpLV3pxUHVsOUJmelpQS1hjc3JqN3J6a0ZjblFLODVGdnhhemdQd1dZRT0%3D@193.142.30.152:443#Channel%20id%3A%20%40ShadowProxy66
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7307#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 ss://YWVzLTI1Ni1nY206STFoVG1hMEJvTA%3D%3D@92.119.199.33:443#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@116.206.124.41:34045#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%AD
 ss://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
@@ -136,11 +135,8 @@ vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab
 vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?path=%2Fwebsocket&security=tls&encryption=none&host=ru05.abvpn.ru&type=ws&sni=ru05.abvpn.ru#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
 vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?path=%2Fwebsocket&security=tls&encryption=none&host=ru01.abvpn.ru&fp=chrome&type=ws&sni=ru01.abvpn.ru#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
 vless://594e62b9-bb88-4264-b3fe-57f66202a96d@148.135.195.96:44356?mode=gun&security=reality&encryption=none&pbk=hoyeyIygWaTAIdW2Cw42wBdeXfRkQCWoKq278YyyuU8&fp=chrome&type=grpc&sni=github.com&sid=67dea0af00c9d222#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-vless://5abfab2f-1181-4d37-86fd-21a7296b6358@sv10.mizbanland.ir:443?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66
 vless://64ae71df-4af7-4477-bb7d-8ea9a551bc21@37.27.246.211:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=wwJmfWX0TYAkFhwG2ej66BRss-LHHJD5BFhtBcRZF0Y&host=scholar.google.com&fp=chrome&spx=%2F&type=xhttp&sni=myket.ir&sid=ce5a88c525#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
 vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?path=%2F6603a779&security=none&encryption=none&host=%2FBIA_TELEGRAM%40ShadowProxy66&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AE%F0%9F%87%B7
-vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:4040?path=%2F&security=none&encryption=none&host=bundesregierung.de&type=ws#Channel%20id%3A%20%40ShadowProxy66
-vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880/?type=ws&encryption=none&flow=&host=www.speedtest.net.zula.ir.cfp1.a2hdhjdxjbxjsjdjd.ddns-ip.nEt.&path=%40V2ray_God#Channel%20id%3A%20%40ShadowProxy66
 vless://6f62b9a8-479c-4d33-b4a9-7e442cf2c349@45.85.119.139:443?mode=auto&path=%2Fazadi%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=inbarzendegi.site&fp=chrome&type=xhttp&sni=InBarZendegi.site#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 vless://708fd02b-5138-4198-980d-79819b3875fd@141.11.252.64:32785?path=%2F708fd02b&security=none&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%A6
 vless://75ecef77-2050-4250-99f7-936d0188edf2@151.101.2.133:80?path=%2Fws%2F%3Fed&security=&encryption=none&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&type=ws&sni=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
