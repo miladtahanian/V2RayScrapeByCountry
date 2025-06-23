@@ -87,7 +87,6 @@ ss://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80?encryption=none&secur
 ss://683e439b-468e-5956-87bc-ec77e2ff36c7@194.226.121.190:443?security=tls&sni=194.226.121.190&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.226.121.190&encryption=none#Rayan%20-%20SSM%20-%20WSDR-116%20-%20RU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 ss://683e439b-468e-5956-87bc-ec77e2ff36c7@zula.ir:443?security=tls&sni=ru-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ru-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-116%20-%20RU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 ss://68796b72-5d6e-4723-a0ce-1259e4b9e5f8@185.234.247.110:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl1-vph.msnegar.eu.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-105%20-%20NL%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
-ss://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@www.speedtest.net:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&type=ws#https%3A%2F%2Ft.me%2Fzisti_pedia++%D9%85%D9%86%D8%A8%D8%B9+%D8%AA%D9%85%D8%A7%D9%85%DB%8C+%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C+%D9%87%D8%A7+%DA%A9%D9%86%DA%A9%D9%88%D8%B1%DB%8C
 ss://6ff4726f-3650-4803-95eb-50b240f6ac75@104.16.194.204:80?encryption=none&security=none&type=ws&host=red-math-7092-ppal03.mewoco2522.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 ss://6ff4726f-3650-4803-95eb-50b240f6ac75@104.24.186.156:80?encryption=none&security=none&type=ws&host=red-math-7092-ppal03.mewoco2522.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 ss://708bb7c1-473c-4f06-9f29-69e6ea006f66@104.16.213.98:80?encryption=none&security=none&type=ws&host=withered-rice-1167.vafey30295.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#t.me%2Fpeterjest
@@ -409,7 +408,6 @@ trojan://fefba36d-5142-42f1-b14d-db5249511d93@172.67.152.170:443?security=tls&sn
 trojan://klZqKyxq0H@57.128.165.173:1935?security=tls&sni=x1-england-ovh-v2.devefun.net&type=tcp&headerType=none#t.me%2Fpeterjest
 trojan://pqlnPNu423@57.129.89.172:1935?security=tls&sni=x1-germany-ovh-v2.devefun.net&type=tcp&headerType=none#t.me%2Fpeterjest
 trojan://telegram-id-privatevpns@13.36.106.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
-trojan://telegram-id-privatevpns@13.36.163.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@13.36.197.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@13.36.216.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@13.36.216.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs🤯
@@ -422,7 +420,6 @@ trojan://telegram-id-privatevpns@13.37.184.135:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.37.21.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@13.37.21.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@13.38.150.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
-trojan://telegram-id-privatevpns@13.38.159.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@13.39.166.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@13.39.228.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@13.39.252.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
@@ -598,7 +595,6 @@ vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80?encryption=none&se
 vless://683e439b-468e-5956-87bc-ec77e2ff36c7@194.226.121.190:443?security=tls&sni=194.226.121.190&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.226.121.190&encryption=none#Rayan%20-%20SSM%20-%20WSDR-116%20-%20RU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://683e439b-468e-5956-87bc-ec77e2ff36c7@zula.ir:443?security=tls&sni=ru-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ru-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-116%20-%20RU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 vless://68796b72-5d6e-4723-a0ce-1259e4b9e5f8@185.234.247.110:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl1-vph.msnegar.eu.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-105%20-%20NL%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
-vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@www.speedtest.net:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&type=ws#https%3A%2F%2Ft.me%2Fzisti_pedia++%D9%85%D9%86%D8%A8%D8%B9+%D8%AA%D9%85%D8%A7%D9%85%DB%8C+%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C+%D9%87%D8%A7+%DA%A9%D9%86%DA%A9%D9%88%D8%B1%DB%8C
 vless://6ff4726f-3650-4803-95eb-50b240f6ac75@104.16.194.204:80?encryption=none&security=none&type=ws&host=red-math-7092-ppal03.mewoco2522.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 vless://6ff4726f-3650-4803-95eb-50b240f6ac75@104.24.186.156:80?encryption=none&security=none&type=ws&host=red-math-7092-ppal03.mewoco2522.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 vless://708bb7c1-473c-4f06-9f29-69e6ea006f66@104.16.213.98:80?encryption=none&security=none&type=ws&host=withered-rice-1167.vafey30295.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#t.me%2Fpeterjest
