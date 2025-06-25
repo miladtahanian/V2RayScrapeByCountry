@@ -44,7 +44,6 @@ ss://44b3cbba-e6ac-485a-9481-981a0415eab9@172.67.193.80:80?encryption=none&secur
 ss://4527ff0c-8ac2-452a-95cb-c2d29e5a8421@104.24.73.254:2087?encryption=none&security=tls&sni=ghh.wsthh.site&type=ws&host=ghh.wsthh.site&path=%2F#t.me%2Fpeterjest
 ss://464938cd-2dc4-31e9-17a9-33a430eb5ff9@finland.ir.tekcloud.fun:25812?encryption=none&security=none&type=tcp&headerType=http&host=alibaba.com#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigsHub
 ss://48eb8684-aa12-4b6d-b0ef-765193e6fb49@104.16.122.82:80?encryption=none&security=none&type=ws&host=tight-queen-5bc0-ppal03.siwome4657.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#t.me%2Fpeterjest
-ss://49054f4c-b321-4201-b7ed-ecbaf1c9164c@151.101.0.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=&encryption=none&host=zedmodeon237.global.ssl.fastly.net&type=xhttp#https://t.me/lrnbymaa
 ss://4d23e844-bced-4f19-9fde-70ec99c04945@79.127.70.112:443?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigsHub
 ss://4ea45d5a-edb9-4eae-903b-997d28e76094@185.234.247.110:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=grpc&serviceName=vless-grpc&encryption=none#Rayan%20-%20VPH%20-%20gRPC-105%20-%20NL%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
 ss://4ea841c1-0dc1-4563-9f47-deba8407cb4e@172.67.73.163:8080?type=ws&host=J9.oDOtZrHUoO.ZuLAIR.ORg.&path=/?ed%3D2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#[🇨🇦]t.me/ConfigsHub`
@@ -421,7 +420,6 @@ trojan://telegram-id-privatevpns@13.37.184.135:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.37.21.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@13.37.21.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@13.37.66.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
-trojan://telegram-id-privatevpns@13.37.66.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@13.38.150.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@13.38.159.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@13.39.0.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
@@ -503,7 +501,6 @@ trojan://telegram-id-privatevpns@63.177.148.25:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@63.177.148.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@63.177.165.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@63.178.112.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
-trojan://telegram-id-privatevpns@63.178.112.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@63.178.128.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@63.178.128.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@63.178.159.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
@@ -572,7 +569,6 @@ vless://44b3cbba-e6ac-485a-9481-981a0415eab9@172.67.193.80:80?encryption=none&se
 vless://4527ff0c-8ac2-452a-95cb-c2d29e5a8421@104.24.73.254:2087?encryption=none&security=tls&sni=ghh.wsthh.site&type=ws&host=ghh.wsthh.site&path=%2F#t.me%2Fpeterjest
 vless://464938cd-2dc4-31e9-17a9-33a430eb5ff9@finland.ir.tekcloud.fun:25812?encryption=none&security=none&type=tcp&headerType=http&host=alibaba.com#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigsHub
 vless://48eb8684-aa12-4b6d-b0ef-765193e6fb49@104.16.122.82:80?encryption=none&security=none&type=ws&host=tight-queen-5bc0-ppal03.siwome4657.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#t.me%2Fpeterjest
-vless://49054f4c-b321-4201-b7ed-ecbaf1c9164c@151.101.0.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=&encryption=none&host=zedmodeon237.global.ssl.fastly.net&type=xhttp#https://t.me/lrnbymaa
 vless://4d23e844-bced-4f19-9fde-70ec99c04945@79.127.70.112:443?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigsHub
 vless://4ea45d5a-edb9-4eae-903b-997d28e76094@185.234.247.110:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=grpc&serviceName=vless-grpc&encryption=none#Rayan%20-%20VPH%20-%20gRPC-105%20-%20NL%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
 vless://4ea841c1-0dc1-4563-9f47-deba8407cb4e@172.67.73.163:8080?type=ws&host=J9.oDOtZrHUoO.ZuLAIR.ORg.&path=/?ed%3D2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#[🇨🇦]t.me/ConfigsHub`

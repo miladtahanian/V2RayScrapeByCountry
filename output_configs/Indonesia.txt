@@ -86,6 +86,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvamNQMzZuMVNvdURjbkJnOUVPWlA4@9.163.232.180:1490#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvamNQMzZuMVNvdURjbkJnOUVPWlA4@9.163.232.180:1490#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@194.87.71.228:2222#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206NzM1ZmQ0ZjQtYmM1NS00MDBhLTlmMWMtMmI5MTA4OWM5MjAw@68.183.213.232:8443#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87
 ss://YWVzLTI1Ni1nY206NzM1ZmQ0ZjQtYmM1NS00MDBhLTlmMWMtMmI5MTA4OWM5MjAw@68.183.213.232:8443#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206STFoVG1hMEJvTA%3D%3D@92.119.199.33:443#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87
@@ -126,7 +127,6 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.196:443?path=%2Fproxyip%
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 trojan://Aimer@104.25.252.184:8443/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#Channel%20id%3A%20%40ShadowProxy66%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F⚡️
 trojan://Aimer@92.53.190.161:2087/?type=tcp&security=tls&sni=epmo.ambercc.filegear-sg.me#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AE
-trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#Channel%20id%3A%20%40ShadowProxy66
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%BFتعدادی
 trojan://your_password@43.218.139.54:443?security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20-%20Jakarta%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
