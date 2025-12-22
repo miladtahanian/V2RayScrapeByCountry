@@ -52,7 +52,6 @@ trojan://1469e09e-027c-11ec-a0fc-f23c913c8d2b@204bdce4-sxaf40-t5bgb3-l4nv.cm5.cn
 trojan://8jqRgpyc5lEe34TzC9A8DuFD23aS3ZyCleIFuCxp3xOYnZRCeA3Oc3yCga8C2DKYBDaRp@18.141.138.96:443?security=tls&sni=mention.protocolbuffer.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://905fcd78-866c-81e1-3cb8-1beb59d661ab@3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com:27231/?type=tcp&security=tls&sni=3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com#%E6%96%B0%E5%8A%A0%E5%9D%A15%7C%40ripaojiedian
 trojan://905fcd78-866c-81e1-3cb8-1beb59d661ab@3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com:27231?allowInsecure=0&sni=3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com#12%2C13%7C%E6%96%B0%E5%8A%A0%E5%9D%A15%7C%40ripaojiedian
-trojan://LxJCPOP40a@206.206.77.237:51469?security=reality&sni=cloudflare.com&fp=chrome&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&sid=793dfc59cf7edf&type=grpc&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%203
 trojan://bf109e1a-2b99-11ed-bb74-f23c9164ca5d@ddd0977f-sxaf40-t3b4w3-ywms.cm5.cnkuaishou.com:27231/?type=tcp&security=tls#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://bf109e1a-2b99-11ed-bb74-f23c9164ca5d@ddd0977f-sxaf40-t3b4w3-ywms.cm5.cnkuaishou.com:27231?#13%7C%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://bf109e1a-2b99-11ed-bb74-f23c9164ca5d@ddd0977f-sxaf40-t3b4w3-ywms.cm5.cnkuaishou.com:27231?allowInsecure=0&sni=ddd0977f-sxaf40-t3b4w3-ywms.cm5.cnkuaishou.com#12%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
