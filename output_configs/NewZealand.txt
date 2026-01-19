@@ -1,0 +1,1 @@
+trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&sni=binaryboots.algorithmblanket.click&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%b3%f0%9f%87%bf%20NZ%201
