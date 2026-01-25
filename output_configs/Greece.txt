@@ -3,4 +3,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE=@185.39.207.60:443#%F0%9F%8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE=@185.39.207.60:443#GR%F0%9F%87%AC%F0%9F%87%B7+%7C+185.39.207.60-443+%7C+176.52ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@151.236.29.225:990#%F0%9F%87%AC%F0%9F%87%B7%20GR-151.236.29.225%3A990
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.100:989#premium-gr%20(1)
-trojan://nbBv30KKn2tVJB6u33PuotT0t-ghHk@217.12.204.110:8443/?type=tcp&security=tls&sni=chat.speedload.ru&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AGR
