@@ -1,4 +1,0 @@
-ss://7e296434-2d17-48d3-928d-19eaa34aecb1@il.accesspoints.cloakify.app:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#REALITY|IL🇮🇱
-ss://804d3775f50245f0a0e1b3a0e1e05960Og==@tel5.vpntype.dev:443#IL%F0%9F%87%AE%F0%9F%87%B1+%7C+tel5.vpntype.dev-443+%7C+275.51ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990#IL%F0%9F%87%AE%F0%9F%87%B1+%7C+169.150.202.174-990+%7C+190.68ms
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@il.accesspoints.cloakify.app:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#REALITY|IL🇮🇱

@@ -1,4 +1,0 @@
-ss://def9f760-61e8-2646-2a24-42973e96c041@mlifaaehazarat.darkping.net:4768?security=reality&encryption=none&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.com&sid=b7e284c9b786f709#REALITY|EE🇪🇪
-ss://e2286c5e-d910-405f-9bcb-b0e81188ad53@151.101.192.155:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=Dorime.com&type=ws#EE🇪🇪
-vless://def9f760-61e8-2646-2a24-42973e96c041@mlifaaehazarat.darkping.net:4768?security=reality&encryption=none&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.com&sid=b7e284c9b786f709#REALITY|EE🇪🇪
-vless://e2286c5e-d910-405f-9bcb-b0e81188ad53@151.101.192.155:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=Dorime.com&type=ws#EE🇪🇪
