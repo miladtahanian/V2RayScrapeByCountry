@@ -13,9 +13,10 @@ trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&host=www.ig
 trojan://humanity@141.101.90.101:443?security=tls&type=ws&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&fp=ios&allowInsecure=1#NormanV2ray-24
 trojan://humanity@188.114.97.3:443?path=%2Fassignment&security=tls&host=www.calmloud.com&fp=ios&type=ws&sni=www.calmloud.com#NormanV2ray-25
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&type=ws&sni=www.creationlong.org#Config_magazine-26
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmloud.com&fp=ios&type=ws&sni=www.calmloud.com#NormanV2ray-27
-trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=1#NormanV2ray-28
-trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#NormanV2ray-29
-trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#canfingV2rayNG-30
-trojan://humanity@95.38.188.84:40443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#NormanV2ray-31
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#filembad-32
+trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=1#v2ray_configs_pool-27
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmloud.com&fp=ios&type=ws&sni=www.calmloud.com#NormanV2ray-28
+trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=1#NormanV2ray-29
+trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#NormanV2ray-30
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#canfingV2rayNG-31
+trojan://humanity@95.38.188.84:40443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#NormanV2ray-32
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#filembad-33
