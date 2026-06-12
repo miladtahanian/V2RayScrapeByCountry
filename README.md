@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2026-06-12 02:22:35 +0330)
+# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2026-06-12 03:49:22 +0330)
 
 این فایل به صورت خودکار ایجاد شده است.
 
@@ -10,9 +10,9 @@
 
 | پروتکل | تعداد کل | لینک |
 |---|---|---|
-| ShadowSocks | 324 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocks.txt) |
-| Trojan | 26 | [`Trojan.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Trojan.txt) |
-| Vless | 306 | [`Vless.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Vless.txt) |
+| ShadowSocks | 352 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocks.txt) |
+| Trojan | 24 | [`Trojan.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Trojan.txt) |
+| Vless | 333 | [`Vless.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Vless.txt) |
 | Vmess | 3 | [`Vmess.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Vmess.txt) |
 
 ## 🌍 فایل‌های کشورها (حاوی کانفیگ)
