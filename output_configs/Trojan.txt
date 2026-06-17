@@ -22,6 +22,7 @@ trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&host=www.ig
 trojan://humanity@104.18.152.229:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#ProxyMtpVPN-50
 trojan://humanity@104.18.152.97:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ProxyMtpVPN-51
 trojan://humanity@104.18.152.97:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#filembad-52
+trojan://humanity@104.18.152.97:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🌐سرور
 trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#ProxyMtpVPN-53
 trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#filembad-54
 trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ProxyMtpVPN-55
@@ -31,13 +32,11 @@ trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&ho
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&type=ws&sni=www.creationlong.org#Config_magazine-59
 trojan://humanity@198.62.62.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#filembad-60
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#filembad-61
-trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#🌐سرور
 trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#filembad-62
 trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#filembad-63
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#filembad-64
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#canfingV2rayNG-65
 trojan://mitivpn@104.16.72.70:443?path=index.php%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-a.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-a.ir#NormanV2ray-66
-trojan://mitivpn@104.16.72.70:443?path=index.php%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-a.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-a.ir#filembad-67
-trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&type=ws&allowInsecure=0&sni=www.ssl.global.digi.my.mitivpn.xyz#NormanV2ray-68
-trojan://mitivpn@45.130.125.220:443?path=index.html%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-a.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-a.ir#NormanV2ray-69
-trojan://mitivpn@45.130.125.220:443?path=index.html%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-a.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-a.ir#ProxyMtpVPN-70
+trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&type=ws&allowInsecure=0&sni=www.ssl.global.digi.my.mitivpn.xyz#NormanV2ray-67
+trojan://mitivpn@45.130.125.220:443?path=index.html%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-a.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-a.ir#NormanV2ray-68
+trojan://mitivpn@45.130.125.220:443?path=index.html%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-a.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-a.ir#ProxyMtpVPN-69
