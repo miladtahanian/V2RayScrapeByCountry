@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2026-07-14 21:20:41 +0330)
+# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2026-07-14 22:51:43 +0330)
 
 این فایل به صورت خودکار ایجاد شده است.
 
@@ -10,9 +10,9 @@
 
 | پروتکل | تعداد کل | لینک |
 |---|---|---|
-| ShadowSocks | 373 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocks.txt) |
-| Trojan | 31 | [`Trojan.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Trojan.txt) |
-| Vless | 360 | [`Vless.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Vless.txt) |
+| ShadowSocks | 370 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocks.txt) |
+| Trojan | 39 | [`Trojan.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Trojan.txt) |
+| Vless | 355 | [`Vless.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Vless.txt) |
 
 ## 🌍 فایل‌های کشورها (حاوی کانفیگ)
 
