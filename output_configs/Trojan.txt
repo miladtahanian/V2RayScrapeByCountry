@@ -37,7 +37,6 @@ trojan://-----BanV2ray----@edededededededededededede-66.poki-pakipon.ir:16267?mo
 trojan://-----BanV2ray----@edededededededededededede-66.poki-pakipon.ir:16267?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com#filembad-48
 trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=%2F51.91.253.83&security=tls&insecure=0&host=gzjx.dpdns.org&type=ws&allowInsecure=0&sni=gzjx.dpdns.org#canfingV2rayNG-49
 trojan://6qfz48o2x0tg2jjv@164.92.207.182:31978?security=none&type=grpc#filembad-50
-trojan://6qfz48o2x0tg2jjv@164.92.207.182:31978?security=none&type=grpc#🌐
 trojan://6qfz48o2x0tg2jjv@164.92.207.182:31978?security=none&type=grpc#🌐سرور
 trojan://MITIVPN@openai.com:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-S-a&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=my-usjca-ohl.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=0&sni=UsAba-bUbks.App-CloUd.IR#canfingV2rayNG-51
 trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=Fl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#canfingV2rayNG-52
