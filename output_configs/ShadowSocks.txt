@@ -229,7 +229,7 @@ ss://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=&encrypt
 ss://74a025dd-c287-4acf-a5fb-e573e10feef9@cdn-cloudflare455.korvexe.ir:2095?encryption=none&security=none&type=httpupgrade&host=cdn-cloudflare455.korvexe.ir&path=%2F#ProxyMtpVPN-300
 ss://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%0A%20%20%22scMaxEachPostBytes%22%20%3A%20%224194304-8388608%22%2C%0A%20%20%22seqPlacement%22%20%3A%20%22query%22%2C%0A%20%20%22uplinkChunkSize%22%20%3A%20%2232768-65536%22%2C%0A%20%20%22uplinkHTTPMethod%22%20%3A%20%22POST%22%0A%7D&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&host=status.play.google.com&fp=ios&spx=%2F&type=xhttp&sni=status.play.google.com&sid=49bcf0de6392f0#canfingV2rayNG-301
 ss://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#filembad-302
-ss://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#🌐سرور
+ss://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#🌐
 ss://7595cd50-9326-48e4-a7bc-802e85e643ec@france.zestmarket.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#NormanV2ray-303
 ss://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@45.145.56.163:443?security=reality&encryption=none&pbk=Vci2ab6lM0ezoLBj2LgE-ynvakjbWOqUUSZmk5vcNjE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de2.spectrum.vu&sid=44d44d1c625a13aa#ProxyMtpVPN-304
 ss://77fd4d9e-c314-4203-b3e0-b836a1d969b4@188.225.27.238:2200?path=%2Fv1&security=&encryption=none&host=rzd.ru&type=ws#filembad-305
@@ -514,7 +514,7 @@ ss://e835fdc7-c453-4e4e-9d9d-b3c5adb90082@refiqq.dextter.ir:2095?path=%2F&securi
 ss://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:443?security=&encryption=none&headerType=none&type=tcp#filembad-514
 ss://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:443?security=&encryption=none&headerType=none&type=tcp#🌐سرور
 ss://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:445?security=none&encryption=none&headerType=none&type=tcp#filembad-515
-ss://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:445?security=none&encryption=none&headerType=none&type=tcp#🌐
+ss://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:445?security=none&encryption=none&headerType=none&type=tcp#🌐سرور
 ss://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:898?security=none&encryption=none&headerType=none&type=tcp#filembad-516
 ss://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:898?security=none&encryption=none&headerType=none&type=tcp#🌐سرور
 ss://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:989?security=none&encryption=none&headerType=none&type=tcp#filembad-517
