@@ -18,4 +18,5 @@ trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ProxyMtpVPN-54
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#canfingV2rayNG-55
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#canfingV2rayNG-56
+trojan://s6wf9fh1eemfsks8@94.101.178.169:2083?security=reality&pbk=QsKfulnzA2Nt5-3qdaGhUcckahPz2P_AIZxAxF8UTz4&headerType=none&fp=chrome&spx=%2Fc3a51ac62b5ccc6&type=tcp&sni=www.bing.com&sid=d0a561#🌐سرور
 trojan://zBSCrW4%3A%3AFtMJG_oTAq@www.speedtest.net:2096?path=%2Ftr%2Fw0JSSnC98vndqWna9w%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=vkvd8bpskvxgjwdvcidxgoccr.javanbaghe.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=VKvd8bpSkvXGjWdVCIDxGOccr.jAVaNBaGhE.wOrkERS.dEv#v2ray_configs_pool-57
