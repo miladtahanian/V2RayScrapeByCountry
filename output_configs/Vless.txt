@@ -124,7 +124,7 @@ vless://4d583b2c-2f5a-47d0-8181-e95217fe8cd9@87.117.234.19:443?security=reality&
 vless://4d583b2c-2f5a-47d0-8181-e95217fe8cd9@87.117.234.19:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&host=JOIN_BEDE_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=fd55b698ee8c3629#filembad-169
 vless://4d583b2c-2f5a-47d0-8181-e95217fe8cd9@87.117.234.19:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&host=JOIN_BEDE_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=fd55b698ee8c3629#🌐سرور
 vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?security=&encryption=none&headerType=http&type=tcp#canfingV2rayNG-170
-vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?security=&encryption=none&headerType=http&type=tcp#🌐
+vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?security=&encryption=none&headerType=http&type=tcp#🌐سرور
 vless://4da72a60-61b9-4571-a054-1bba24bf6728@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=1&host=nesfeshzksab.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#canfingV2rayNG-171
 vless://50414e45-4c5f-5a45-5553-117311e37aea@104.16.144.254:80?path=%2Fstream%2FPANEL_ZEUS%2F117311e37aea&security=none&encryption=none&host=y9zzcme9u5as.v0z9fbexu9vs.workers.dev&fp=ios&type=ws&sni=y9zzcme9u5as.v0z9fbexu9vs.workers.dev#filembad-172
 vless://50414e45-4c5f-5a45-5553-41cadaa40bbb@104.27.67.3:8080?path=%2Fstream%2FPANEL_ZEUS%2F41cadaa40bbb&security=none&encryption=none&host=xqzenielujls.drsyg44.workers.dev&type=ws&sni=xqzenielujls.drsyg44.workers.dev#filembad-173
@@ -148,7 +148,7 @@ vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?security=none&enc
 vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bastani.purplrose.ir&fp=random&type=ws&allowInsecure=0&sni=bastani.purplrose.ir#canfingV2rayNG-190
 vless://5e9d217c-0f9f-4c8c-aa79-a600baa8765b@2.144.22.87:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=api.bgp6.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api.bgp6.ir#canfingV2rayNG-191
 vless://603819a3-dd65-408a-abab-15d8dc49887f@104.248.251.106:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#ProxyMtpVPN-192
-vless://603819a3-dd65-408a-abab-15d8dc49887f@104.248.251.106:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🌐سرور
+vless://603819a3-dd65-408a-abab-15d8dc49887f@104.248.251.106:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🌐
 vless://603819a3-dd65-408a-abab-15d8dc49887f@164.92.230.180:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#ProxyMtpVPN-193
 vless://603819a3-dd65-408a-abab-15d8dc49887f@64.226.117.146:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#ProxyMtpVPN-194
 vless://6179bb85-fd73-4aa1-a10d-a7c017306c1b@162.128.84.142:443?security=reality&encryption=none&pbk=t3_QIEko7K1ONUIWGr4L84HNHszQ3zB_kOqkALiacRg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=43a85ad1c112e5d8#filembad-195
