@@ -299,7 +299,6 @@ def generate_countries_readme(country_data, output_path):
     
     md = f"# V2Ray Configs by Country\n\n"
     md += f"> Last updated: {timestamp}\n\n"
-    md += f"> Source: [SoliSpirit/v2ray-configs](https://github.com/SoliSpirit/v2ray-configs)\n\n"
     md += f"## Summary\n\n"
     md += f"- **Total Countries:** {len(sorted_countries)}\n"
     md += f"- **Total Configs:** {total_configs}\n\n"
@@ -322,6 +321,9 @@ def generate_countries_readme(country_data, output_path):
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(md)
     logging.info(f"Generated {output_path}")
+    
+    shutil.copy2(output_path, README_FILE)
+    logging.info(f"Copied to root {README_FILE}")
 
 async def scrape_countries():
     """Main function to scrape all country configs from GitHub."""
