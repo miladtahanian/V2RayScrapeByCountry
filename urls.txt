@@ -1,2 +1,4 @@
 https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/mixed_iran.txt
 https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/sub.txt
+https://raw.githubusercontent.com/SoliSpirit/SolVPN/refs/heads/main/all_configs.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt
