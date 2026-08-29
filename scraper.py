@@ -24,7 +24,7 @@ CONCURRENT_REQUESTS = 10
 MAX_CONFIG_LENGTH = 1500
 MIN_PERCENT25_COUNT = 15
 GITHUB_COUNTRIES_API = "https://api.github.com/repos/SoliSpirit/v2ray-configs/contents/Countries"
-GITHUB_RAW_BASE = "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/Countries"
+GITHUB_RAW_BASE = "https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/main/Countries"
 
 # --- Logging Setup ---
 logging.basicConfig(level=logging.INFO,
