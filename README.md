@@ -1,21 +1,22 @@
-# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2026-08-29 18:41:17 +0330)
+﻿# V2Ray Configs by Country
 
-این فایل به صورت خودکار ایجاد شده است.
+> Auto-scraped from [SoliSpirit/v2ray-configs](https://github.com/SoliSpirit/v2ray-configs)
 
-**توضیح:** فایل‌های کشورها فقط شامل کانفیگ‌هایی هستند که نام/پرچم کشور (با رعایت مرز کلمه برای مخفف‌ها) در **اسم کانفیگ** پیدا شده باشد. اسم کانفیگ ابتدا از بخش `#` لینک و در صورت نبود، از نام داخلی (برای Vmess/SSR) استخراج می‌شود.
+## Summary
 
-**نکته:** کانفیگ‌هایی که به شدت URL-Encode شده‌اند (حاوی تعداد زیادی `%25`، طولانی یا دارای کلمات کلیدی خاص) از نتایج حذف شده‌اند.
+| # | Country | Configs | Subscription |
+|---|---------|---------|--------------|
+---
 
-## 📁 فایل‌های پروتکل‌ها
+**Total Countries:** 0
+**Total Configs:** 0
 
-| پروتکل | تعداد کل | لینک |
-|---|---|---|
-| ShadowSocks | 563 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocks.txt) |
-| Trojan | 14 | [`Trojan.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Trojan.txt) |
-| Vless | 539 | [`Vless.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Vless.txt) |
-| Vmess | 3 | [`Vmess.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Vmess.txt) |
+## Usage
 
-## 🌍 فایل‌های کشورها (حاوی کانفیگ)
+1. Choose a country from the table above
+2. Click the "Subscribe" link to get the raw config
+3. Import the configs into your V2Ray client
 
-هیچ کانفیگ مرتبط با کشوری یافت نشد.
+## Disclaimer
 
+These configs are scraped from a public repository. Use at your own risk.

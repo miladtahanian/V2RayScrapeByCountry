@@ -10,16 +10,21 @@ from datetime import datetime
 import pytz
 import base64
 from urllib.parse import parse_qs, unquote
+import aiofiles
 
 # --- Configuration ---
 URLS_FILE = 'urls.txt'
 KEYWORDS_FILE = 'keywords.json' # باید حاوی کدهای دو حرفی کشور باشد
 OUTPUT_DIR = 'output_configs'
+COUNTRIES_DIR = 'Countries'
+COUNTRIES_README_FILE = 'Countries/README.md'
 README_FILE = 'README.md'
 REQUEST_TIMEOUT = 15
 CONCURRENT_REQUESTS = 10
 MAX_CONFIG_LENGTH = 1500
 MIN_PERCENT25_COUNT = 15
+GITHUB_COUNTRIES_API = "https://api.github.com/repos/SoliSpirit/v2ray-configs/contents/Countries"
+GITHUB_RAW_BASE = "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/Countries"
 
 # --- Logging Setup ---
 logging.basicConfig(level=logging.INFO,
@@ -234,6 +239,121 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
 
 # تابع main و سایر توابع باید مشابه نسخه کامل قبلی باشند.
 # در اینجا برای کامل بودن، تابع main از پاسخ قبلی کپی می‌شود.
+
+# --- Country Scraper Functions ---
+async def fetch_github_file_list(session):
+    """Fetch all txt file names from the GitHub Countries folder."""
+    all_files = []
+    page = 1
+    while True:
+        url = f"{GITHUB_COUNTRIES_API}?page={page}&per_page=100"
+        try:
+            async with session.get(url, timeout=aiohttp.ClientTimeout(total=REQUEST_TIMEOUT)) as resp:
+                if resp.status != 200:
+                    logging.error(f"GitHub API returned status {resp.status}")
+                    break
+                data = await resp.json()
+                if not data:
+                    break
+                txt_files = [f for f in data if f['name'].endswith('.txt')]
+                all_files.extend(txt_files)
+                if len(data) < 100:
+                    break
+                page += 1
+        except Exception as e:
+            logging.error(f"Error fetching GitHub API page {page}: {e}")
+            break
+    return all_files
+
+async def download_country_file(session, file_info, countries_dir):
+    """Download a single country txt file from GitHub."""
+    country_name = file_info['name'].replace('.txt', '')
+    download_url = file_info['download_url']
+    dest_path = os.path.join(countries_dir, file_info['name'])
+    
+    try:
+        async with session.get(download_url, timeout=aiohttp.ClientTimeout(total=30)) as resp:
+            if resp.status != 200:
+                logging.warning(f"Failed to download {country_name}: status {resp.status}")
+                return country_name, 0
+            content = await resp.text()
+            async with aiofiles.open(dest_path, 'w', encoding='utf-8') as f:
+                await f.write(content)
+            
+            lines = [line.strip() for line in content.split('\n') if line.strip()]
+            config_count = len(lines)
+            logging.info(f"Downloaded {country_name}: {config_count} configs")
+            return country_name, config_count
+    except Exception as e:
+        logging.error(f"Error downloading {country_name}: {e}")
+        return country_name, 0
+
+def generate_countries_readme(country_data, output_path):
+    """Generate README.md for the Countries folder."""
+    tz = pytz.timezone('Asia/Tehran')
+    now = datetime.now(tz)
+    timestamp = now.strftime("%Y-%m-%d %H:%M:%S %Z")
+    
+    sorted_countries = sorted(country_data.items(), key=lambda x: x[0].lower())
+    total_configs = sum(count for _, count in sorted_countries)
+    
+    md = f"# V2Ray Configs by Country\n\n"
+    md += f"> Last updated: {timestamp}\n\n"
+    md += f"> Source: [SoliSpirit/v2ray-configs](https://github.com/SoliSpirit/v2ray-configs)\n\n"
+    md += f"## Summary\n\n"
+    md += f"- **Total Countries:** {len(sorted_countries)}\n"
+    md += f"- **Total Configs:** {total_configs}\n\n"
+    md += f"## Countries\n\n"
+    md += f"| # | Country | Configs | Subscription Link |\n"
+    md += f"|---|---------|---------|-------------------|\n"
+    
+    for i, (country, count) in enumerate(sorted_countries, 1):
+        sub_url = f"{GITHUB_RAW_BASE}/{country}.txt"
+        md += f"| {i} | **{country}** | {count} | [Subscribe]({sub_url}) |\n"
+    
+    md += f"\n---\n\n"
+    md += f"## Usage\n\n"
+    md += f"1. Choose a country from the table above\n"
+    md += f"2. Click the **Subscribe** link to get the raw config file\n"
+    md += f"3. Import the configs into your V2Ray client\n\n"
+    md += f"## Disclaimer\n\n"
+    md += f"These configs are sourced from a public repository. Use at your own risk.\n"
+    
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(md)
+    logging.info(f"Generated {output_path}")
+
+async def scrape_countries():
+    """Main function to scrape all country configs from GitHub."""
+    logging.info("=== Starting Country Scraper ===")
+    
+    if not os.path.exists(COUNTRIES_DIR):
+        os.makedirs(COUNTRIES_DIR, exist_ok=True)
+        logging.info(f"Created directory: {COUNTRIES_DIR}")
+    
+    async with aiohttp.ClientSession() as session:
+        logging.info("Fetching file list from GitHub API...")
+        file_list = await fetch_github_file_list(session)
+        logging.info(f"Found {len(file_list)} txt files.")
+        
+        if not file_list:
+            logging.warning("No files found. Exiting country scraper.")
+            return
+        
+        sem = asyncio.Semaphore(CONCURRENT_REQUESTS)
+        async def download_with_sem(file_info):
+            async with sem:
+                return await download_country_file(session, file_info, COUNTRIES_DIR)
+        
+        tasks = [download_with_sem(f) for f in file_list]
+        results = await asyncio.gather(*tasks)
+        
+        country_data = {name: count for name, count in results if count > 0}
+        
+        generate_countries_readme(country_data, COUNTRIES_README_FILE)
+        
+        logging.info(f"=== Country Scraper Finished: {len(country_data)} countries, {sum(country_data.values())} total configs ===")
+
 async def main():
     if not os.path.exists(URLS_FILE) or not os.path.exists(KEYWORDS_FILE):
         logging.critical("Input files not found.")
@@ -342,6 +462,8 @@ async def main():
     generate_simple_readme(protocol_counts, country_counts, categories_data, 
                            github_repo_path="miladtahanian/V2RayScrapeByCountry",
                            github_branch="main")
+
+    await scrape_countries()
 
     logging.info("--- Script Finished ---")
 
