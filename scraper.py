@@ -288,6 +288,65 @@ async def download_country_file(session, file_info, countries_dir):
         logging.error(f"Error downloading {country_name}: {e}")
         return country_name, 0
 
+def get_country_flag(country_name, keywords_data):
+    """Get flag emoji for a country from keywords.json."""
+    if country_name in keywords_data:
+        keywords_list = keywords_data[country_name]
+        if isinstance(keywords_list, list):
+            for item in keywords_list:
+                if isinstance(item, str) and any(0x1F1E6 <= ord(c) <= 0x1F1FF for c in item):
+                    return item
+    return "🏳️"
+
+def rename_config_name(config_line, new_name):
+    """Replace or add #Name to a config line."""
+    protocol_prefixes = ['vmess://', 'vless://', 'trojan://', 'ss://', 'ssr://', 'hysteria2://', 'tuic://']
+    is_vmess = config_line.startswith('vmess://')
+    
+    if is_vmess:
+        try:
+            b64_part = config_line[8:]
+            b64_part = b64_part.replace('_', '/').replace('-', '+')
+            missing = len(b64_part) % 4
+            if missing:
+                b64_part += '=' * (4 - missing)
+            decoded = base64.b64decode(b64_part).decode('utf-8')
+            vmess_json = json.loads(decoded)
+            vmess_json['ps'] = new_name
+            new_b64 = base64.b64encode(json.dumps(vmess_json, ensure_ascii=False).encode('utf-8')).decode('utf-8')
+            new_b64 = new_b64.replace('/', '_').replace('+', '-').rstrip('=')
+            return f"vmess://{new_b64}"
+        except Exception:
+            pass
+    
+    if '#' in config_line:
+        base = config_line.split('#')[0]
+        return f"#{new_name}".join([base, ''])[0:-1] if False else f"{base}#{new_name}"
+    
+    return f"{config_line}#{new_name}"
+
+def rename_country_configs(countries_dir, keywords_data):
+    """Rename all configs in each country file to MTSRV (FLAG) Server N format."""
+    for filename in os.listdir(countries_dir):
+        if not filename.endswith('.txt'):
+            continue
+        country_name = filename.replace('.txt', '')
+        filepath = os.path.join(countries_dir, filename)
+        flag = get_country_flag(country_name, keywords_data)
+        
+        with open(filepath, 'r', encoding='utf-8') as f:
+            lines = [line.strip() for line in f if line.strip()]
+        
+        new_lines = []
+        for idx, line in enumerate(lines, 1):
+            new_name = f"MTSRV ({flag}) Server {idx}"
+            new_lines.append(rename_config_name(line, new_name))
+        
+        with open(filepath, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(new_lines) + '\n')
+        
+        logging.info(f"Renamed {len(new_lines)} configs in {filename}")
+
 def generate_countries_readme(country_data, output_path):
     """Generate README.md for the Countries folder."""
     tz = pytz.timezone('Asia/Tehran')
@@ -351,6 +410,10 @@ async def scrape_countries():
         results = await asyncio.gather(*tasks)
         
         country_data = {name: count for name, count in results if count > 0}
+        
+        with open(KEYWORDS_FILE, 'r', encoding='utf-8') as f:
+            keywords_data = json.load(f)
+        rename_country_configs(COUNTRIES_DIR, keywords_data)
         
         generate_countries_readme(country_data, COUNTRIES_README_FILE)
         
