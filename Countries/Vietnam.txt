@@ -1,9 +1,7 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.238.213.96:989#MTSRV (🇻🇳) Server 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKZXVWdG5HSDYzTUtxT2V1Yzk@103.143.209.134:51348#MTSRV (🇻🇳) Server 2
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.21:28443?security=tls&sni=www.download.windowsupdate1.com#MTSRV (🇻🇳) Server 3
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.228:28443?security=tls&sni=www.download.windowsupdate1.com#MTSRV (🇻🇳) Server 4
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.127:28443?security=tls&sni=www.download.windowsupdate1.com#MTSRV (🇻🇳) Server 5
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.234:28443?security=tls&sni=www.download.windowsupdate1.com#MTSRV (🇻🇳) Server 6
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.195.236.24:28443?security=tls&sni=www.download.windowsupdate1.com#MTSRV (🇻🇳) Server 7
-vmess://eyJhZGQiOiAiMTYxLjI0OC4zMC4zIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIxMDA2YTkyOC0yMDIxLTRhM2ItYmViNS1kNTg1M2M2MjgxYzUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwMDg2IiwgInBzIjogIk1UU1JWICjwn4e78J-HsykgU2VydmVyIDgiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiTVRTUlYgKPCfh7vwn4ezKSBTZXJ2ZXIgOSIsICJhZGQiOiAiMTYxLjI0OC4zMC4zIiwgInBvcnQiOiAiMjAwODYiLCAiaWQiOiAiMTAwNmE5MjgtMjAyMS00YTNiLWJlYjUtZDU4NTNjNjI4MWM1IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIi0tLSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICIxMjYifQ
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.234:28443?security=tls&sni=www.download.windowsupdate1.com#MTSRV (🇻🇳) Server 2
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.228:28443?security=tls&sni=www.download.windowsupdate1.com#MTSRV (🇻🇳) Server 3
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.127:28443?security=tls&sni=www.download.windowsupdate1.com#MTSRV (🇻🇳) Server 4
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.195.236.24:28443?security=tls&sni=www.download.windowsupdate1.com#MTSRV (🇻🇳) Server 5
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.21:28443?security=tls&sni=www.download.windowsupdate1.com#MTSRV (🇻🇳) Server 6
+vmess://eyJhZGQiOiAiMTYxLjI0OC4zMC4zIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIxMDA2YTkyOC0yMDIxLTRhM2ItYmViNS1kNTg1M2M2MjgxYzUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwMDg2IiwgInBzIjogIk1UU1JWICjwn4e78J-HsykgU2VydmVyIDciLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
