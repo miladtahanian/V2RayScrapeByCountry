@@ -1,4 +1,4 @@
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@194.150.167.52:47121#MTSRV (🇬🇷) Server 1
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#MTSRV (🇬🇷) Server 2
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#MTSRV (🇬🇷) Server 3
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#MTSRV (🇬🇷) Server 4
+vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#MTSRV (🇬🇷) Server 2
+vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#MTSRV (🇬🇷) Server 3
+vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#MTSRV (🇬🇷) Server 4
