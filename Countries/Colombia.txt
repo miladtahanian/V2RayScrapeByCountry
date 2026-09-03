@@ -1,2 +1,1 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.123.215:62145#MTSRV (🇨🇴) Server 1
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.123.215:62145?#MTSRV (🇨🇴) Server 2
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.176.3:62145?&type=tcp&headerType=none&path=/#MTSRV (🇨🇴) Server 1
