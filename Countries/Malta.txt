@@ -1,1 +1,1 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.227.99.90:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#MTSRV (🇲🇹) Server 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990#MTSRV (🇲🇹) Server 1

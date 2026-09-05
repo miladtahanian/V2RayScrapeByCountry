@@ -1,1 +1,1 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.176.3:62145?&type=tcp&headerType=none&path=/#MTSRV (🇨🇴) Server 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#MTSRV (🇨🇴) Server 1
