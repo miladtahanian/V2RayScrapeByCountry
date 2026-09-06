@@ -1,11 +1,10 @@
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388#MTSRV (🇻🇳) Server 1
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.238.213.96:989#MTSRV (🇻🇳) Server 2
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.133:38388#MTSRV (🇻🇳) Server 3
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@103.173.255.127:28443?security=tls&sni=glcvn150.hruqoaw.cn#MTSRV (🇻🇳) Server 4
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@103.173.255.234:28443?security=tls&sni=glcvn150.hruqoaw.cn#MTSRV (🇻🇳) Server 5
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@103.195.236.24:28443?security=tls&sni=download.windowsupdate1.com#MTSRV (🇻🇳) Server 6
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@103.173.255.21:28443?security=tls&sni=glcvn150.hruqoaw.cn#MTSRV (🇻🇳) Server 7
-vless://e0aafde7-37e2-486b-eb30-efa71166bf7e@165.154.55.105:20984?security=reality&encryption=none&pbk=Ns3J1Dc0WBSu560uhGwDfn1kic7IZm3ZHggSpExhyRo&headerType=none&fp=chrome&type=tcp&sni=dl.google.com#MTSRV (🇻🇳) Server 8
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.238.213.96:989#MTSRV (🇻🇳) Server 1
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.133:38388#MTSRV (🇻🇳) Server 2
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@103.173.255.127:28443?security=tls&sni=glcvn150.hruqoaw.cn#MTSRV (🇻🇳) Server 3
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@103.195.236.24:28443?security=tls&sni=download.windowsupdate1.com#MTSRV (🇻🇳) Server 4
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@103.173.255.21:28443?security=tls&sni=glcvn150.hruqoaw.cn#MTSRV (🇻🇳) Server 5
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@103.173.255.234:28443?security=tls&sni=glcvn150.hruqoaw.cn#MTSRV (🇻🇳) Server 6
+vless://e0aafde7-37e2-486b-eb30-efa71166bf7e@165.154.55.105:20984?security=reality&encryption=none&pbk=Ns3J1Dc0WBSu560uhGwDfn1kic7IZm3ZHggSpExhyRo&headerType=none&fp=chrome&type=tcp&sni=dl.google.com#MTSRV (🇻🇳) Server 7
+vmess://eyJhZGQiOiAiMTAzLjE4Ni4xNDkuMTMyIiwgImFpZCI6IDAsICJob3N0IjogImZyb250aWVyLWkxOG4udGlrdG9rdi5jb20iLCAiaWQiOiAiYTQ3OWZjMDItMDdjNS00ODY0LTg1NjQtYzRmMTQ3ZGZhNDg4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zaG9wdnBuLm5ldCIsICJwb3J0IjogODAsICJwcyI6ICJNVFNSViAo8J-Hu_Cfh7MpIFNlcnZlciA4IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0
 vmess://eyJhZGQiOiAiMTYxLjI0OC4zMC4zIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIxMDA2YTkyOC0yMDIxLTRhM2ItYmViNS1kNTg1M2M2MjgxYzUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwMDg2IiwgInBzIjogIk1UU1JWICjwn4e78J-HsykgU2VydmVyIDkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-vmess://eyJhZGQiOiAiMTAzLjE4Ni4xNDkuMTMyIiwgImFpZCI6IDAsICJob3N0IjogImZyb250aWVyLWkxOG4udGlrdG9rdi5jb20iLCAiaWQiOiAiYTQ3OWZjMDItMDdjNS00ODY0LTg1NjQtYzRmMTQ3ZGZhNDg4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zaG9wdnBuLm5ldCIsICJwb3J0IjogODAsICJwcyI6ICJNVFNSViAo8J-Hu_Cfh7MpIFNlcnZlciAxMCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiTVRTUlYgKPCfh7vwn4ezKSBTZXJ2ZXIgMTEiLCAiYWRkIjogIjE2MS4yNDguMzAuMyIsICJwb3J0IjogIjIwMDg2IiwgImlkIjogIjEwMDZhOTI4LTIwMjEtNGEzYi1iZWI1LWQ1ODUzYzYyODFjNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICItLS0iLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiMTExIn0
+vmess://eyJ2IjogIjIiLCAicHMiOiAiTVRTUlYgKPCfh7vwn4ezKSBTZXJ2ZXIgMTAiLCAiYWRkIjogIjE2MS4yNDguMzAuMyIsICJwb3J0IjogIjIwMDg2IiwgImlkIjogIjEwMDZhOTI4LTIwMjEtNGEzYi1iZWI1LWQ1ODUzYzYyODFjNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICItLS0iLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiMTExIn0
