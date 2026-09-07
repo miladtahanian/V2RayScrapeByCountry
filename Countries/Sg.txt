@@ -1,1 +1,1 @@
-vless://d64d50bb-fe6f-49bd-bbfd-a6f02dc47d69@163.128.99.239:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=AAgK52aNv0or2NLswvbExwOdTFcNeUeC2hTsznFnPVQ&sid=b3e189533758eb90&packetEncoding=xudp#MTSRV (🏳️) Server 1
+vless://66d0024b-307a-4714-86f7-07d141a244bf@163.128.99.165:443?security=reality&encryption=none&pbk=l_AILVmgCSrYUlKhoiFc6NYY-zjXE6FTGEDaG1MECQY&host=www.apple.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=635295c55ea6eda1#MTSRV (🏳️) Server 1
