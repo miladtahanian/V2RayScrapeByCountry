@@ -1,1 +1,1 @@
-vless://d7430ae7-320c-4658-808b-3006d0627d82@185.246.191.243:443?security=reality&encryption=none&pbk=n_-rh8EC8zmzkuu2AmCnKoh09omlYONdgS_F7CStITk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=endeavouros.ubuntuhosting.host&sid=3fa234ea9feaa048#MTSRV (🇮🇸) Server 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHZjJvMG54R2hpR3Z5QWlMTF9oWEh3@2.56.174.133:6#MTSRV (🇮🇸) Server 1
