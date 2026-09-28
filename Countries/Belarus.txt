@@ -1,1 +1,1 @@
-trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@178.172.227.178:500?mode=gun&security=tls&alpn=h2,http/1.1&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=by01.botovod.space#MTSRV (🇧🇾) Server 1
+vless://a4f0558a-3601-42b5-be28-1341cb6877dc@134.17.17.113:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=admin.wisptinker.app&fp=chrome&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=b2a6e3d42f05c3d1&spx=/&allowInsecure=1#MTSRV (🇧🇾) Server 1
