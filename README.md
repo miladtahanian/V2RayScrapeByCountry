@@ -1,11 +1,11 @@
 # V2Ray Configs by Country
 
-> Last updated: 2026-10-25 15:31:23 +0330
+> Last updated: 2026-10-25 19:51:29 +0330
 
 ## Summary
 
-- **Total Countries:** 91
-- **Total Configs:** 11184
+- **Total Countries:** 92
+- **Total Configs:** 11376
 
 ## Countries
 
@@ -24,84 +24,85 @@
 | 11 | **Belize** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Belize.txt) |
 | 12 | **Bosnia_And_Herzegovina** | 6 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Bosnia_And_Herzegovina.txt) |
 | 13 | **Br** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Br.txt) |
-| 14 | **Brazil** | 133 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Brazil.txt) |
-| 15 | **Bulgaria** | 42 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Bulgaria.txt) |
+| 14 | **Brazil** | 141 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Brazil.txt) |
+| 15 | **Bulgaria** | 44 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Bulgaria.txt) |
 | 16 | **By** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/By.txt) |
-| 17 | **Canada** | 377 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Canada.txt) |
-| 18 | **Chile** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Chile.txt) |
+| 17 | **Canada** | 390 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Canada.txt) |
+| 18 | **Chile** | 2 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Chile.txt) |
 | 19 | **China** | 127 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/China.txt) |
 | 20 | **Cn** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Cn.txt) |
 | 21 | **Colombia** | 6 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Colombia.txt) |
 | 22 | **Costa_Rica** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Costa_Rica.txt) |
-| 23 | **Cr** | 5 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Cr.txt) |
+| 23 | **Cr** | 4 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Cr.txt) |
 | 24 | **Croatia** | 2 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Croatia.txt) |
-| 25 | **Cyprus** | 15 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Cyprus.txt) |
-| 26 | **Czechia** | 33 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Czechia.txt) |
+| 25 | **Cyprus** | 14 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Cyprus.txt) |
+| 26 | **Czechia** | 32 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Czechia.txt) |
 | 27 | **De** | 2 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/De.txt) |
-| 28 | **Denmark** | 29 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Denmark.txt) |
+| 28 | **Denmark** | 30 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Denmark.txt) |
 | 29 | **Egypt** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Egypt.txt) |
 | 30 | **Estonia** | 18 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Estonia.txt) |
-| 31 | **Finland** | 122 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Finland.txt) |
-| 32 | **France** | 294 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/France.txt) |
-| 33 | **Germany** | 633 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Germany.txt) |
+| 31 | **Finland** | 129 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Finland.txt) |
+| 32 | **France** | 290 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/France.txt) |
+| 33 | **Germany** | 636 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Germany.txt) |
 | 34 | **Greece** | 3 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Greece.txt) |
-| 35 | **Hong_Kong** | 165 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Hong_Kong.txt) |
-| 36 | **Hungary** | 26 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Hungary.txt) |
-| 37 | **India** | 69 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/India.txt) |
+| 35 | **Hong_Kong** | 164 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Hong_Kong.txt) |
+| 36 | **Hungary** | 27 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Hungary.txt) |
+| 37 | **India** | 70 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/India.txt) |
 | 38 | **Indonesia** | 6 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Indonesia.txt) |
-| 39 | **Iran** | 174 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Iran.txt) |
-| 40 | **Iraq** | 25 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Iraq.txt) |
-| 41 | **Ireland** | 59 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Ireland.txt) |
+| 39 | **Iran** | 172 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Iran.txt) |
+| 40 | **Iraq** | 26 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Iraq.txt) |
+| 41 | **Ireland** | 57 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Ireland.txt) |
 | 42 | **Israel** | 9 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Israel.txt) |
 | 43 | **Italy** | 17 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Italy.txt) |
-| 44 | **Japan** | 81 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Japan.txt) |
+| 44 | **Japan** | 85 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Japan.txt) |
 | 45 | **Jordan** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Jordan.txt) |
 | 46 | **Kazakhstan** | 27 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Kazakhstan.txt) |
-| 47 | **Kyrgyzstan** | 3 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Kyrgyzstan.txt) |
+| 47 | **Kyrgyzstan** | 2 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Kyrgyzstan.txt) |
 | 48 | **Latvia** | 23 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Latvia.txt) |
 | 49 | **Liechtenstein** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Liechtenstein.txt) |
-| 50 | **Lithuania** | 24 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Lithuania.txt) |
+| 50 | **Lithuania** | 23 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Lithuania.txt) |
 | 51 | **Luxembourg** | 29 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Luxembourg.txt) |
-| 52 | **Malaysia** | 15 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Malaysia.txt) |
+| 52 | **Malaysia** | 14 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Malaysia.txt) |
 | 53 | **Maldives** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Maldives.txt) |
-| 54 | **Mauritius** | 8 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Mauritius.txt) |
+| 54 | **Mauritius** | 13 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Mauritius.txt) |
 | 55 | **Mexico** | 11 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Mexico.txt) |
 | 56 | **Moldova** | 32 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Moldova.txt) |
-| 57 | **New_Zealand** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/New_Zealand.txt) |
-| 58 | **North_Macedonia** | 3 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/North_Macedonia.txt) |
-| 59 | **Norway** | 16 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Norway.txt) |
-| 60 | **Pakistan** | 4 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Pakistan.txt) |
-| 61 | **Pe** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Pe.txt) |
-| 62 | **Philippines** | 4 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Philippines.txt) |
-| 63 | **Poland** | 37 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Poland.txt) |
-| 64 | **Portugal** | 5 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Portugal.txt) |
-| 65 | **Romania** | 29 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Romania.txt) |
-| 66 | **Russia** | 227 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Russia.txt) |
-| 67 | **Réunion** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Réunion.txt) |
-| 68 | **Saudi_Arabia** | 5 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Saudi_Arabia.txt) |
-| 69 | **Serbia** | 2 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Serbia.txt) |
-| 70 | **Seychelles** | 34 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Seychelles.txt) |
-| 71 | **Singapore** | 97 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Singapore.txt) |
-| 72 | **Slovakia** | 2 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Slovakia.txt) |
-| 73 | **Slovenia** | 4 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Slovenia.txt) |
-| 74 | **South_Africa** | 22 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/South_Africa.txt) |
-| 75 | **South_Korea** | 31 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/South_Korea.txt) |
-| 76 | **Spain** | 25 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Spain.txt) |
-| 77 | **Sweden** | 44 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Sweden.txt) |
-| 78 | **Switzerland** | 45 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Switzerland.txt) |
-| 79 | **Taiwan** | 18 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Taiwan.txt) |
-| 80 | **Thailand** | 12 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Thailand.txt) |
-| 81 | **The_Netherlands** | 346 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/The_Netherlands.txt) |
-| 82 | **Tw** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Tw.txt) |
-| 83 | **Türkiye** | 109 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Türkiye.txt) |
-| 84 | **Ukraine** | 26 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Ukraine.txt) |
-| 85 | **United_Arab_Emirates** | 75 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/United_Arab_Emirates.txt) |
-| 86 | **United_Kingdom** | 494 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/United_Kingdom.txt) |
-| 87 | **United_States** | 2121 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/United_States.txt) |
-| 88 | **Unknown** | 4088 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Unknown.txt) |
-| 89 | **Us** | 506 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Us.txt) |
-| 90 | **Venezuela** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Venezuela.txt) |
-| 91 | **Vietnam** | 3 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Vietnam.txt) |
+| 57 | **Netherlands** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Netherlands.txt) |
+| 58 | **New_Zealand** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/New_Zealand.txt) |
+| 59 | **North_Macedonia** | 3 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/North_Macedonia.txt) |
+| 60 | **Norway** | 16 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Norway.txt) |
+| 61 | **Pakistan** | 7 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Pakistan.txt) |
+| 62 | **Pe** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Pe.txt) |
+| 63 | **Philippines** | 4 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Philippines.txt) |
+| 64 | **Poland** | 37 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Poland.txt) |
+| 65 | **Portugal** | 5 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Portugal.txt) |
+| 66 | **Romania** | 28 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Romania.txt) |
+| 67 | **Russia** | 238 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Russia.txt) |
+| 68 | **Réunion** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Réunion.txt) |
+| 69 | **Saudi_Arabia** | 5 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Saudi_Arabia.txt) |
+| 70 | **Serbia** | 2 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Serbia.txt) |
+| 71 | **Seychelles** | 37 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Seychelles.txt) |
+| 72 | **Singapore** | 97 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Singapore.txt) |
+| 73 | **Slovakia** | 3 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Slovakia.txt) |
+| 74 | **Slovenia** | 4 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Slovenia.txt) |
+| 75 | **South_Africa** | 23 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/South_Africa.txt) |
+| 76 | **South_Korea** | 32 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/South_Korea.txt) |
+| 77 | **Spain** | 28 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Spain.txt) |
+| 78 | **Sweden** | 44 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Sweden.txt) |
+| 79 | **Switzerland** | 46 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Switzerland.txt) |
+| 80 | **Taiwan** | 18 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Taiwan.txt) |
+| 81 | **Thailand** | 12 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Thailand.txt) |
+| 82 | **The_Netherlands** | 336 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/The_Netherlands.txt) |
+| 83 | **Tw** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Tw.txt) |
+| 84 | **Türkiye** | 110 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Türkiye.txt) |
+| 85 | **Ukraine** | 28 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Ukraine.txt) |
+| 86 | **United_Arab_Emirates** | 73 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/United_Arab_Emirates.txt) |
+| 87 | **United_Kingdom** | 495 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/United_Kingdom.txt) |
+| 88 | **United_States** | 2165 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/United_States.txt) |
+| 89 | **Unknown** | 4190 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Unknown.txt) |
+| 90 | **Us** | 504 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Us.txt) |
+| 91 | **Venezuela** | 1 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Venezuela.txt) |
+| 92 | **Vietnam** | 3 | [Subscribe](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/Vietnam.txt) |
 
 ---
 
