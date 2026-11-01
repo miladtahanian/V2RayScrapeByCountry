@@ -1,2 +1,1 @@
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.159:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp#MTSRV (🇧🇭) Server 1
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.179:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=softice.net#MTSRV (🇧🇭) Server 2
+vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@188.137.158.151:6443?mode=auto&path=/assets/metrics&security=reality&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"328-1716"}&pbk=fFJh1sXeJ-z5aQjbqnwdBrFsQL1PmjNCT0hPj50T7Xg&fp=chrome&type=xhttp&sni=edge-metric.cfd&sid=694eb64512cfabef#MTSRV (🇧🇭) Server 1
