@@ -1,1 +1,1 @@
-vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@185.146.234.242:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=/#MTSRV (🇮🇸) Server 1
+vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?security=reality&type=tcp&sni=google.com&fp=chrome&sid=06&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo#MTSRV (🇮🇸) Server 1
