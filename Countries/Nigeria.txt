@@ -1,1 +1,1 @@
-vless://632cd343-1e8f-4bf6-a9a2-20ada1f6970f@196.196.149.34:443?security=reality&encryption=none&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=3fb2b6t.se1.h1clayd.click&sid=1061f1b1cdaad3ad#MTSRV (🇳🇬) Server 1
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?security=reality&encryption=none&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=7aa271t.es1.h1clayd.click&sid=42426c882c5fcd41#MTSRV (🇳🇬) Server 1
