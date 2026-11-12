@@ -1,1 +1,1 @@
-vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2120?encryption=none&fp=&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&security=reality&sid=ddaaf1630788aeac&sni=www.apple.com&type=tcp#MTSRV (🇬🇪) Server 1
+vless://a3bc5615-3494-4442-b400-fd061b224af2@217.11.164.184:56333?type=tcp&security=none&encryption=none&headerType=none#MTSRV (🇬🇪) Server 1
